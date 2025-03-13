@@ -57,6 +57,8 @@
 
 ![monitor9](/site/img/monitor9.png)
 
+![monitor13](/site/img/monitor13.png)
+
 1.關鍵字語法設定步驟:
 
 ```
