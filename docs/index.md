@@ -15,11 +15,11 @@ InfoMiner能在網路訊息發布五分鐘內，便能蒐集最新網路資訊�
 ## 聯絡我們
 
 **Mobile:** (02)2585-5080  
-**Email:** <sunny@largitdata.com>
+> **Email:** <sunny@largitdata.com>
 
-# 大數軟體有限公司 LargitData
+**大數軟體有限公司 LargitData**
 
-**Website:** www.largitdata.com
+> **Website:** www.largitdata.com
 
 
 
