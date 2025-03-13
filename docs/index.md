@@ -8,9 +8,9 @@ InfoMiner能在網路訊息發布五分鐘內，便能蒐集最新網路資訊�
 
 ## 瞭解更多
 
-* 發展起源
-* 公司簡介
-* 核心技術
+* [發展起源](./origin.md)
+* [公司簡介](./company-profile.md)
+* [核心技術](./core-technology.md)
 
 ## 聯絡我們
 
