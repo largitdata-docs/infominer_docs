@@ -1,0 +1,7 @@
+ # 首頁
+
+```
+透過InfoMiner首頁綜覽不同新聞區塊，隨時了解引發關注的公眾議題。
+```
+![homepage](/site/img/homepage.png)
+![homepage1](/site/img/homepage1.png)
