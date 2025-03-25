@@ -1,4 +1,4 @@
- # 平台功能列概述
+# 平台功能列概述
  
 ![function](/site/img/function.png)
 
