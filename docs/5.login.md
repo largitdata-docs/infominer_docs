@@ -1,4 +1,4 @@
- # 登入平台
+# 登入平台
 
 ```
 1. 先於瀏覽器(支援Chrome, Firefox 以及 IE 10 )以上輸入網址(https://infominer.io/)，點選【登入】按鈕。

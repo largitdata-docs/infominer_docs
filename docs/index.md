@@ -1,6 +1,6 @@
 # InfoMiner 即時輿情分析平台文件
   
-![InfoMiner](/site/img/logo.avif)【InfoMiner輿情分析系統】是能即時蒐集及分析網路上各種大數據的輿情分析系統。透過InfoMiner就能隨時掌握一般民眾對公共事務的看法、商品評價以及相關最新消息，讓公部門及企業能夠從網路大數據中，知己知彼，迅速、精準擬訂克敵制勝的公關與行銷策略。
+<img src="..\site\img\logo.avif">【InfoMiner輿情分析系統】是能即時蒐集及分析網路上各種大數據的輿情分析系統。透過InfoMiner就能隨時掌握一般民眾對公共事務的看法、商品評價以及相關最新消息，讓公部門及企業能夠從網路大數據中，知己知彼，迅速、精準擬訂克敵制勝的公關與行銷策略。
 
 ## 產品優勢
 
@@ -19,7 +19,7 @@ InfoMiner能在網路訊息發布五分鐘內，便能蒐集最新網路資訊�
 
 **大數軟體有限公司 LargitData**
 
-> **Website:** www.largitdata.com
+> **Website:** [www.largitdata.com](<www.largitdata.com>)
 
 
 
