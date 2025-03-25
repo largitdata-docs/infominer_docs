@@ -1,11 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://largitdata.github.io/infomienr_docs/</loc>
-         <lastmod>2025-03-03</lastmod>
+         <loc>https://largitdata-docs.github.io/infominer_docs/</loc>
+         <lastmod>2025-03-25</lastmod>
     </url>
     <url>
-         <loc>https://largitdata.github.io/infomienr_docs/test/</loc>
-         <lastmod>2025-03-03</lastmod>
+         <loc>https://largitdata-docs.github.io/infominer_docs/advance-analyze/</loc>
+         <lastmod>2025-03-25</lastmod>
+    </url>
+    <url>
+         <loc>https://largitdata-docs.github.io/infominer_docs/company-profile/</loc>
+         <lastmod>2025-03-25</lastmod>
+    </url>
+    <url>
+         <loc>https://largitdata-docs.github.io/infominer_docs/core-technology/</loc>
+         <lastmod>2025-03-25</lastmod>
+    </url>
+    <url>
+         <loc>https://largitdata-docs.github.io/infominer_docs/download-area/</loc>
+         <lastmod>2025-03-25</lastmod>
+    </url>
+    <url>
+         <loc>https://largitdata-docs.github.io/infominer_docs/function-overview/</loc>
+         <lastmod>2025-03-25</lastmod>
+    </url>
+    <url>
+         <loc>https://largitdata-docs.github.io/infominer_docs/home-page/</loc>
+         <lastmod>2025-03-25</lastmod>
+    </url>
+    <url>
+         <loc>https://largitdata-docs.github.io/infominer_docs/hot-topic-analyze/</loc>
+         <lastmod>2025-03-25</lastmod>
+    </url>
+    <url>
+         <loc>https://largitdata-docs.github.io/infominer_docs/login/</loc>
+         <lastmod>2025-03-25</lastmod>
+    </url>
+    <url>
+         <loc>https://largitdata-docs.github.io/infominer_docs/monitoring-setting/</loc>
+         <lastmod>2025-03-25</lastmod>
+    </url>
+    <url>
+         <loc>https://largitdata-docs.github.io/infominer_docs/my-keep/</loc>
+         <lastmod>2025-03-25</lastmod>
+    </url>
+    <url>
+         <loc>https://largitdata-docs.github.io/infominer_docs/origin/</loc>
+         <lastmod>2025-03-25</lastmod>
+    </url>
+    <url>
+         <loc>https://largitdata-docs.github.io/infominer_docs/report-analyze/</loc>
+         <lastmod>2025-03-25</lastmod>
+    </url>
+    <url>
+         <loc>https://largitdata-docs.github.io/infominer_docs/search/</loc>
+         <lastmod>2025-03-25</lastmod>
+    </url>
+    <url>
+         <loc>https://largitdata-docs.github.io/infominer_docs/topic-keyword-analyze/</loc>
+         <lastmod>2025-03-25</lastmod>
     </url>
 </urlset>
